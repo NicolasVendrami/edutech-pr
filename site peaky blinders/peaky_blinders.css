@@ -1,0 +1,87 @@
+body {
+    background: url("papel_de_parede.jpg");
+}
+
+.cabecalho_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-left: 20px;
+    width: 200px;
+}
+
+.texto-logo {
+    align-self: center;
+    padding-right: 80px;
+    font-size: 35px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.personagem {
+    background: #CCCCCC;
+}
+
+.botao {
+    text-align: center;
+
+}
+
+p {
+    text-align: justify;
+    width: 50%;
+    margin: auto;
+    font-size: 25px;
+    font-family: 'IM Fell English SC', serif;
+    padding-top: 20px;
+}
+
+.titulo {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#info {
+    display: ;
+    border-collapse: collapse;
+    width: 50%;
+    font-size: 17px;
+    margin: auto;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.direita {
+    text-align: right;
+}
+
+.esquerda-titulo {
+    font-size: 20px;
+}
+
+#informacoes {
+    padding-top: 10px;
+}
+
+#relacionamento {
+    width: 100%;
+}
+
+#relacionamentos {
+    display: flex;
+    padding-top: 10px;
+    width: 50%;
+    margin: auto;
+    font-size: 17px;
+}
+
+.texto-link {
+    text-decoration: set;
+    color: black;
+}
